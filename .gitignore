@@ -1,0 +1,4 @@
+.venv
+.streamlit
+__pycache__
+anaconda_projects
